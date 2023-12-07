@@ -2,7 +2,7 @@ import { useState } from 'react'
 import './App.css'
 
 function Square() {
-	<button className="square">X</button>
+	return <button className="square">X</button>
 }
 
 function Board() {
